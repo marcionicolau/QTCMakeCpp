@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="CPP_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/QTCMakeCpp-53c7add4/53c7add4/Debug0/QTCMakeCpp_automoc.cpp">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/QTCMakeCpp-53c7add4/53c7add4/Debug0/QTCMakeCpp_automoc.cpp" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/QTCMakeCpp-53c7add4/53c7add4/MinSizeRel0/QTCMakeCpp_automoc.cpp">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/QTCMakeCpp-53c7add4/53c7add4/MinSizeRel0/QTCMakeCpp_automoc.cpp" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/QTCMakeCpp-53c7add4/53c7add4/RelWithDebInfo0/QTCMakeCpp_automoc.cpp">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/QTCMakeCpp-53c7add4/53c7add4/RelWithDebInfo0/QTCMakeCpp_automoc.cpp" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/QTCMakeCpp-53c7add4/53c7add4/Release0/QTCMakeCpp_automoc.cpp">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/QTCMakeCpp-53c7add4/53c7add4/Release0/QTCMakeCpp_automoc.cpp" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/main.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/CMakeLists.txt" isTestSource="false" />
+    </content>
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library">
+      <library name="Header Search Paths">
+        <CLASSES>
+          <root url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/QTCMakeCpp-53c7add4/53c7add4/Release0" />
+          <root url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/QTCMakeCpp-53c7add4/53c7add4/RelWithDebInfo0" />
+          <root url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/QTCMakeCpp-53c7add4/53c7add4/MinSizeRel0" />
+          <root url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/QTCMakeCpp-53c7add4/53c7add4/Debug0" />
+          <root url="file://C:/Qt/Tools/mingw492_32/lib/gcc/i686-w64-mingw32/4.9.2/include-fixed" />
+          <root url="file://C:/Qt/Tools/mingw492_32/lib/gcc/i686-w64-mingw32/4.9.2/include" />
+          <root url="file://C:/Qt/Tools/mingw492_32/i686-w64-mingw32/include" />
+          <root url="file://C:/Qt/5.6/mingw49_32/include" />
+          <root url="file://C:/Qt/5.6/mingw49_32/mkspecs/win32-g++" />
+        </CLASSES>
+        <SOURCES>
+          <root url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/QTCMakeCpp-53c7add4/53c7add4/Release0" />
+          <root url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/QTCMakeCpp-53c7add4/53c7add4/RelWithDebInfo0" />
+          <root url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/QTCMakeCpp-53c7add4/53c7add4/MinSizeRel0" />
+          <root url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/QTCMakeCpp-53c7add4/53c7add4/Debug0" />
+          <root url="file://C:/Qt/Tools/mingw492_32/lib/gcc/i686-w64-mingw32/4.9.2/include-fixed" />
+          <root url="file://C:/Qt/Tools/mingw492_32/lib/gcc/i686-w64-mingw32/4.9.2/include" />
+          <root url="file://C:/Qt/Tools/mingw492_32/i686-w64-mingw32/include" />
+          <root url="file://C:/Qt/5.6/mingw49_32/include" />
+          <root url="file://C:/Qt/5.6/mingw49_32/mkspecs/win32-g++" />
+        </SOURCES>
+        <excluded>
+          <root url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/QTCMakeCpp-53c7add4/53c7add4/Release0/QTCMakeCpp_automoc.cpp" />
+          <root url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/QTCMakeCpp-53c7add4/53c7add4/RelWithDebInfo0/QTCMakeCpp_automoc.cpp" />
+          <root url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/QTCMakeCpp-53c7add4/53c7add4/MinSizeRel0/QTCMakeCpp_automoc.cpp" />
+          <root url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/QTCMakeCpp-53c7add4/53c7add4/Debug0/QTCMakeCpp_automoc.cpp" />
+        </excluded>
+      </library>
+    </orderEntry>
+  </component>
+</module>
